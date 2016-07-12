@@ -1,0 +1,47 @@
+  <style>
+        h1 {
+    color:deeppink;
+    font-size:65px;
+     text-shadow:4px 2px 1px #ffffff;
+     font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+        } 
+        h2 {
+        text-shadow:1px 1px 2px #00ffff;
+        color:dimgrey
+             }
+ body {
+    color: darkslategrey;
+    background-color:lavenderblush;
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
+    font-size: 20px
+
+}
+        p {
+         font-weight: bold; 
+        color:black;
+        font-size: 33px;
+        font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+        }     
+        
+a:link { /* unvisited link */
+    color: palevioletred;
+}
+
+a:visited { /* visited link */
+    color: palevioletred;
+}
+
+a:hover { /* moused over link */
+    color: lightseagreen;
+}
+
+a:active { /* current link */
+    color: lightpink;
+}
+
+a:focus {  /* focused link */
+    color: palevioletred;
+}
+    
+                                          
+    </style>
